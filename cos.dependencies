@@ -12,9 +12,9 @@
     "branch": "cm-10.2"
   },
   {
-    "project": "TheMuppets",
-    "repository": "proprietary_vendor_htc",
+    "project": "MoKee",
+    "repository": "android_vendor_htc_dlx",
     "target_path": "vendor/htc",
-    "branch": "cm-10.2"
+    "branch": "jb-mr2_mkt"
   }
 ]
